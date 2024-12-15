@@ -1,7 +1,7 @@
 {
-  "name": "echarts-wordcloud",
+  "name": "echarts-wordcloud-19",
   "version": "2.1.0",
-  "description": "ECharts wordcloud extension based on wordcloud2.js",
+  "description": "ECharts wordcloud fork ok eacharts-wordcloud",
   "main": "index.js",
   "author": "",
   "license": "ISC",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ecomfe/echarts-wordcloud.git"
+    "url": "https://github.com/ivelinov94/echarts-wordcloud"
   },
   "devDependencies": {
     "echarts": "^5.4.0",

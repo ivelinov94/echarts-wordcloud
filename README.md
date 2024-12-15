@@ -1,3 +1,7 @@
+# This is a fork of https://github.com/ecomfe/echarts-wordcloud
+# Had a problem with Angular 19, so I had to fix it somehow quick.
+# The install process stays the same, but the import is different in the index.d.ts file which is importing now from echarts/core instead of echarts.
+
 # echarts-wordcloud
 
 Third-party Wordcloud extension based on [wordcloud2.js](https://github.com/timdream/wordcloud2.js) for [Apache ECharts](https://github.com/apache/echarts).
